@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamzaahmadaslam
-- 👀 I’m a Wordpress VIP Developer
+- 👀 I’m a Wordpress Developer
 - 🌱 I’m currently working on VueJs
 - 💞️ I’m looking to collaborate on any Website Development Projects
 - 📫 How to reach me info@hamzaahmadaslam.com
