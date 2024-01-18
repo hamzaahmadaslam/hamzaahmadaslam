@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamzaahmadaslam
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning VueJs
-- 💞️ I’m looking to collaborate on any IT Project
+- 👀 I’m a Wordpress VIP Developer
+- 🌱 I’m currently working on VueJs
+- 💞️ I’m looking to collaborate on any Website Development Projects
 - 📫 How to reach me info@hamzaahmadaslam.com
 
 <!---
